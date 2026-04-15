@@ -83,14 +83,7 @@ HR submitted a request to fully deprovision an employee account before their fin
 ### Ticket Details
 ![Ticket](assets/ticket.png)
 
-### User Communication
-![Chat](assets/chat.png)
-
-### Account Disabled Confirmation
-![Account Disabled](assets/account-disable.png)
-
 ---
-
 ## 🧠 Key Skills Demonstrated
 
 - User account management
