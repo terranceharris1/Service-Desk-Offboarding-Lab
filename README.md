@@ -79,7 +79,7 @@ HR submitted a request to fully deprovision an employee account before their fin
 ![Ticket](Ticket.PNG)
 ![Chat](Chat.PNG)
 ![Disable](Account-disable.PNG)
-[Resolved](TicketResolved.PNG)
+![Resolved](TicketResolved.PNG)
 ### Ticket Details
 ![Ticket](assets/ticket.png)
 
